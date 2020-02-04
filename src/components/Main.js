@@ -9,9 +9,6 @@ class Main extends Component {
         console.log("constructor");
     }
 
-    componentDidMount(){
-        // this.props.removePost(1);
-    }
     render() {
         // console.log(this.props.posts);
         return(
